@@ -1,0 +1,52 @@
+Mensaje de bienvenido
+
+
+<center> <div class="n"><p> <b><font color="#000000" face="georgia" size="4"><marquee width="400" scrollamount="5" bgcolor=
+"#FFFFFF">Bienvenido A Nuestra Pagina</marquee> </font></b></p><center>
+
+Buen dia o buenas tardes o buenas noches
+<center>
+<span style="font-size: large;"><span class="Apple-style-span" style="color: red;"><script language="JavaScript" type="text/javascript">
+//<![CDATA[
+<!--
+today = new Date()
+if(today.getMinutes() < 10){
+pad = "0"}
+else
+pad = "";
+document.write ;if((today.getHours() >=6) && (today.getHours() <=9)){
+document.write("¡Buen día!")
+}
+if((today.getHours() >=10) && (today.getHours() <=11)){
+document.write("¡Buen día!")
+}
+if((today.getHours() >=12) && (today.getHours() <=19)){
+document.write("¡Buenas tardes!")
+}
+if((today.getHours() >=20) && (today.getHours() <=23)){
+document.write("¡Buenas noches!")
+}
+if((today.getHours() >=0) && (today.getHours() <=3)){
+document.write("¡Buenas noches!")
+}
+if((today.getHours() >=4) && (today.getHours() <=5)){
+document.write("¡Buenas noches!")
+}
+// -->
+//]]>
+</script></span></span></center>
+
+
+
+Busqueda de Google
+
+<!-- Búsqueda Google --> <center> <FORM method=GET action="http://www.google.com/search"> <TABLE bgcolor="#FFFFFF"><tr><td> <A HREF="http://www.google.com/"> <IMG SRC="http://www.google.com/logos/Logo_40wht.gif" border="0" ALT="Google" align="absmiddle"></A> <INPUT TYPE=text name=q size=31 maxlength=255 value=""> <INPUT TYPE=hidden name=hl value=es> <INPUT type=submit name=btnG VALUE="Búsqueda Google"> </td></tr></TABLE> </FORM> </center> <!-- Búsqueda Google -->
+
+                </basefont>
+                </body>
+
+
+Calendario
+
+<p style="text-align: center;"> <iframe width="200" height="200" scrolling="no"
+src="http://pagina-del-dia.euroresidentes.es/gadget-dia-de-hoy.php?fondo=Rojo.png&amp;texto=FFFFFF" frameborder="0"></iframe></p>
